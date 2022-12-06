@@ -11,7 +11,7 @@ class TesteCalc {
 	public void test() {
 		
 		double soma = cal.somar(2,3);
-		assertEquals(56,soma);
+		assertEquals(8,soma);
 	}
 
 }
